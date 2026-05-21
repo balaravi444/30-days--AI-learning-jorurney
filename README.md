@@ -11,7 +11,7 @@ Welconme to my 30 days journey to become AI/ML ready.
 -Become industry-ready for AI/ML opportunities
 -----
 
-## Day 1
+
 - started my public AI learning journey
 - Created this Github repository
 - Planned my 30-day roadmap
