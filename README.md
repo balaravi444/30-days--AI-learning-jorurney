@@ -1,4 +1,4 @@
-# 🤖 30 Days of AI Learning Journey
+# 🤖 AI/ML Learning Journey — Road to My First AI Engineer Job
 
 > A public commitment to becoming AI/ML ready — one day at a time.
 
@@ -7,8 +7,12 @@
 
 ## 👋 About This Journey
 
-Hi! I'm **Balaravi**, and this is my public 30-day AI/ML learning journey.  
-I'm documenting everything — notes, code, mistakes, and wins — to stay accountable and help others who are starting from scratch.
+Hi! I'm **Balaravi**, and this is my public AI/ML learning journey — documented day by day until I land my first job as an **AI Engineer**.
+
+I'm starting from scratch and sharing everything openly — notes, code, mistakes, and wins — to stay accountable and help others on the same path.
+
+**Started:** 19 May 2026
+**Goal:** Land my first AI Engineer job
 
 **Started:** May 2025  
 **Goal:** Build strong AI/ML fundamentals and become industry-ready
