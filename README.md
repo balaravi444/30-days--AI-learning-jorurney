@@ -36,11 +36,10 @@ I'm starting from scratch and sharing everything openly — notes, code, mistake
 |-----|-------|-------|------|
 | Day 01 | Introduction to AI & Setup | [📝 Notes](days/day-01/notes.md) | — |
 | Day 02 | Python Basics | [📝 Notes](days/day-02/notes.md) | — |
-| Day 03 | Python for AI | [📝 Notes](days/day-03/notes.md) | — |
-| Day 04 | ML Concepts Intro | [📝 Notes](days/day-04/notes.md) | — |
-| Day 05 | — | — | — |
-| ... | ... | ... | ... |
-| Day 30 | — | — | — |
+| Day 03 | Python Control Flow | [📝 Notes](days/day-03/notes.md) | — |
+| Day 04 | Functions & Variable Scope | [📝 Notes](days/day-04/notes.md) | — |
+| Day 05 | Advanced Functions & Recursion | [📝 Notes](days/day-05/notes.md) | — |
+| Day 06 | Python Data Structures | [📝 Notes](days/day-06/notes.md) | — |
 
 ---
 
