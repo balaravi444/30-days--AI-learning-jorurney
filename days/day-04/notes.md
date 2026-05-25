@@ -1,6 +1,6 @@
 # Day 04 — Functions & Variable Scope 🚀
 
-**Date:** 22 May 2026  
+**Date:** 23 May 2026  
 **Time Spent:** (2 hours)  
 **Resource Used:** [GeeksforGeeks Python Course](https://www.geeksforgeeks.org/python-programming-language/)
 
