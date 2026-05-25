@@ -1,6 +1,6 @@
 # Day 01 — Python Fundamentals
 
-**Date:** 19 May 2026
+**Date:** 20 May 2026
 **Time Spent:** ~3 hours
 **Resource Used:** [GeeksforGeeks Python Course](https://www.geeksforgeeks.org/python-programming-language/)
 
