@@ -1,6 +1,6 @@
 # Day 05 — Advanced Functions & Recursion 🚀
 
-**Date:** 23 May 2026  
+**Date:** 24 May 2026  
 **Time Spent:** ( 3.5 hours)  
 **Resource Used:** [GeeksforGeeks Python Course](https://www.geeksforgeeks.org/python-programming-language/)
 
