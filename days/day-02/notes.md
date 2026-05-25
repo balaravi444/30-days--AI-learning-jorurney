@@ -1,6 +1,6 @@
 # Day 02 — Python Fundamentals (Operators & Conditions)
 
-**Date:** 20 May 2026  
+**Date:** 21 May 2026  
 **Time Spent:** (2 hours)  
 **Resource Used:** [GeeksforGeeks Python Course](https://www.geeksforgeeks.org/python-programming-language/)
 
