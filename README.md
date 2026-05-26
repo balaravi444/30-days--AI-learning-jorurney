@@ -2,7 +2,7 @@
 
 > A public commitment to becoming AI/ML ready — one day at a time.
 
-![Progress](https://img.shields.io/badge/Day-6%20-blue)
+![Progress](https://img.shields.io/badge/Day-7%20-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 ## 👋 About This Journey
