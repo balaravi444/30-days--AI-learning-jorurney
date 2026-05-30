@@ -18,7 +18,7 @@
 | Day 08 | Collections Module | ✅ Done | 26 May 2026 |
 | Day 09 | Exception Handling | ✅ Done | 27 May 2026 |
 | Day 10 | File Handling | ✅ Done | 29 May 2026 |
-| Day 11 | OOP — Classes & Objects | ⏳ Up Next | — |
+| Day 11 | OOP — Classes & Objects | ✅ Done | 30 May 2026 |
 | Day 12 | OOP — Inheritance & Polymorphism | 🔒 Pending | — |
 | Day 13 | OOP — Encapsulation & Abstraction | 🔒 Pending | — |
 | Day 14 | OOP — Magic Methods & Operator Overloading | 🔒 Pending | — |
